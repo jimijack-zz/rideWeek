@@ -115,6 +115,11 @@ section.home-section-4 {
     background-size: 100%;
 }
 
+#about {
+    background-size: cover;
+    background: url('https://i.imgur.com/EnIiMcJ.jpg');
+}
+
 #howitworks {
 	background-size: cover;
 }
