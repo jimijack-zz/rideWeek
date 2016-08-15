@@ -1,0 +1,328 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fifteenth\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat Mar 07 2015 22:23:59 GMT+0000 (GMT Standard Time)\n"
+"POT-Revision-Date: Sat Mar 07 2015 22:24:07 GMT+0000 (GMT Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:52
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../image.php:23
+msgid "Previous Image"
+msgstr ""
+
+#: ../image.php:23
+msgid "Next Image"
+msgstr ""
+
+#: ../image.php:58 ../content-page.php:24 ../content-link.php:35 ../content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: ../image.php:62 ../index.php:47 ../search.php:39 ../archive.php:50 ../content-
+#: page.php:28 ../content-link.php:39 ../content.php:47
+msgid "Page"
+msgstr ""
+
+#: ../image.php:70 ../content-search.php:27 ../content-search.php:32 ../content-
+#: page.php:34 ../content-link.php:55 ../content.php:63
+msgid "Edit"
+msgstr ""
+
+#: ../image.php:83
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-"
+"title\">%title</span>"
+msgstr ""
+
+#: ../index.php:45 ../search.php:37 ../archive.php:48
+msgid "Previous page"
+msgstr ""
+
+#: ../index.php:46 ../search.php:38 ../archive.php:49
+msgid "Next page"
+msgstr ""
+
+#: ../comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../single.php:32
+msgid "Next"
+msgstr ""
+
+#: ../single.php:33
+msgid "Next post:"
+msgstr ""
+
+#: ../single.php:35
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:36
+msgid "Previous post:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: ../content-link.php:30 ../content.php:38 ../inc/template-tags.php:236
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: ../author-bio.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:85
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Widget Area"
+msgstr ""
+
+#: ../functions.php:134
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Noto Sans, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:157
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Noto Serif, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:162
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:167
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: ../functions.php:172
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: ../functions.php:242
+msgid "expand child menu"
+msgstr ""
+
+#: ../functions.php:243
+msgid "collapse child menu"
+msgstr ""
+
+#: ../functions.php:392
+msgid "Copyright "
+msgstr ""
+
+#: ../functions.php:393
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../functions.php:395
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "Older Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Featured"
+msgstr ""
+
+#: ../inc/template-tags.php:54
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: ../inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: ../inc/template-tags.php:90 ../inc/template-tags.php:98
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:93
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: ../inc/template-tags.php:101
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: ../inc/template-tags.php:112
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: ../inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:121
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:121
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/back-compat.php:36 ../inc/back-compat.php:46 ../inc/back-compat.php:59
+#, php-format
+msgid ""
+"Fifteenth requires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: ../inc/customizer.php:30
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../inc/customizer.php:45
+msgid "Header/Footer/Sidebar Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:46
+msgid "Applied to the header, footer and sidebar on wide screens."
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Header/Footer/Sidebar Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:62
+msgid "Applied to the sidebar on wide screens."
+msgstr ""
+
+#: ../inc/customizer.php:67
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../inc/customizer.php:91
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:102
+msgid "Dark"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "Yellow"
+msgstr ""
+
+#: ../inc/customizer.php:124
+msgid "Pink"
+msgstr ""
+
+#: ../inc/customizer.php:135
+msgid "Purple"
+msgstr ""
+
+#: ../inc/customizer.php:146
+msgid "Blue"
+msgstr ""

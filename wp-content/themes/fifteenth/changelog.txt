@@ -1,0 +1,40 @@
+Theme Name:   Fifteenth
+File Name:    Changelog
+Tested up to: 4.1.2
+Stable tag:	  1.0.7
+
+== Changelog ==
+
+= 1.0.7 =
+Fixed: Implemented security patch related to add_query_arg()
+
+= 1.0.6 =
+* Fixed bug when checking for bbpress - file: header.php @line 56.
+* Moved $content_width definition inside a function callback - File: functions.php @line 51
+* Improved how stylesheets are loaded if a child theme is in use - File: functions.php @line 224 
+
+= 1.0.5 =
+* NEW: Added bbpress support templates and CSS customization
+* Minor CSS and code adjustments
+
+= 1.0.4 =
+* Added background color to menu hover/focus state for accessibility purposes.
+* Minor CSS adjustments.
+
+= 1.0.3 =
+* More adjustments on links for accessibility purposes - added underlines and border bottom on certain elements to improve reader usability.
+
+= 1.0.2 =
+* Adjusted link contrast aspect ration for accessibility purpose
+* Correct escape employed for fifteenth_color_scheme_css and fifteenth_sidebar_text_color_css.
+* Removed unused `wpdevhq_post_content` theme mod from content.php
+* Fixed Readme theme description and contributors.
+* Removed the incorrect pot file.
+* Added correct pot file for the theme.
+* Added license for images depicted in the theme's screenshot. 
+
+= 1.0.1 = 23/02/2015
+* Fixed bug: Social links floatation - File: style.css @line 4688
+
+= 1.0.0 =
+* Initial Release 
