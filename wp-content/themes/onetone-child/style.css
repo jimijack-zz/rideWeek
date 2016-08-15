@@ -86,6 +86,7 @@ section.video-section .home-container {
     background: rgba(255, 184, 25, .2);
     background-size: 100%;
     background-position-y: center;
+    border: 2px ridge white;
     border-radius: 25px;
     padding-top: 50px;
     transition-property: background, border-radius;
