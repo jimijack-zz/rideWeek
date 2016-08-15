@@ -83,19 +83,20 @@ section.home-section-1 .home-section-content, section.home-section-1 p {
 
 section.video-section .home-container {
     z-index: 3;
-    background: rgba(255, 184, 25, .2);
+    /*background: rgba(255, 184, 25, .2);*/
     background-size: 100%;
     background-position-y: center;
-    border: 2px ridge white;
+    /*border: 2px ridge white;*/
     border-radius: 25px;
     padding-top: 50px;
-    transition-property: background, border-radius;
+    transition-property: background, border, border-radius;
     transition-duration: 1s;
     transition-timing-function: linear;
 }
 
 section.video-section .home-container:hover {
     background: rgba(0, 45, 92, .2);
+    border: 2px ridge white;
     border-radius: 50%;
 }
 
