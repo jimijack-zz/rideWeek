@@ -28,57 +28,42 @@ margin:0px;
     border-width: 1px;
     border-color: #feb01b;
     /*background-color: rgba(0, 160, 221, .8);*/
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #00a0dd;
+    /*-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #00a0dd;*/
+    font-size: 100px;
+    margin-top: 75px;
 }
 
 section.home-section-1 .magee-heading {
-    font-family: 'arial';
+    font-family: 'Gotham';
     font-weight: 700;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: white;
+    /*-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;*/
     /*background-color: rgba(0, 160, 221, .6);*/
 }
 
 .magee-btn-normal.btn-line.btn-light {
     color: #666666;
     background-color: #feb01b;
-    border: 2px ridge white;
+    border: 2px ridge transparent;
     border-radius: 6px;
-    transition-property: background, border-radius;
+    transition-property: background;
     transition-duration: .5s;
     transition-timing-function: linear;
 }
 
-/*.box {
-  background: #2db34a;
-  border-radius: 6px;
-  cursor: pointer;
-  height: 95px;
-  line-height: 95px;
-  text-align: center;
-  transition-property: background, border-radius;
-  transition-duration: 1s;
-  transition-timing-function: linear;
-  width: 95px;
-}*/
-
 .magee-btn-normal.btn-line.btn-light:hover, .magee-btn-normal.btn-line.btn-light:active, .magee-btn-normal.btn-line.btn-light:focus {
     background-color: rgba(0, 160, 221, .5);
     color: white;
-    border-radius: 50%;
 }
 
 section.home-section-1 .home-section-content, section.home-section-1 p {
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 40px;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 70px;
     font-weight: 600;
     color: #00a0dd;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
-    /*background: -webkit-linear-gradient(left, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333, #00a0dd, #333333);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;*/
+    /*-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;*/
 }
 
 section.video-section .home-container {
@@ -87,7 +72,6 @@ section.video-section .home-container {
     background-size: 100%;
     background-position-y: center;
     /*border: 2px ridge white;*/
-    border-radius: 25px;
     padding-top: 50px;
     transition-property: background, border, border-radius;
     transition-duration: 1s;
@@ -95,9 +79,9 @@ section.video-section .home-container {
 }
 
 section.video-section .home-container:hover {
-    background: rgba(0, 45, 92, .2);
-    border: 2px ridge white;
-    border-radius: 50%;
+    background: rgba(0, 45, 92, .4);
+    /*border: 2px ridge white;*/
+    border-radius: 25px;
 }
 
 .magee-accordion.panel-group .panel-heading+.panel-collapse>.list-group, .magee-accordion.panel-group .panel-heading+.panel-collapse>.panel-body {
@@ -113,6 +97,11 @@ section.video-section .home-container:hover {
 .banner-sns li a i {
     color: #fff;
     font-size: 30px;
+}
+
+.banner-sns li a i:hover {
+    color: #00a0dd;
+    font-size: 35px;
 }
 
 .section-subtitle {
@@ -133,11 +122,11 @@ section.home-section-4 {
 }
 
 #howitworks {
-	background-size: cover;
+    background-size: cover;
 }
 
 .pledge i {
-	padding-right: 15px;
+    padding-right: 15px;
     font-size: 30px;
 }
 
@@ -154,7 +143,7 @@ section.home-section-4 {
 }
 
 .magee-btn-normal.btn-dark:hover {
-	background-color: rgba(255, 255, 255, .6);
+    background-color: rgba(255, 255, 255, .6);
     color: black;
 }
 
