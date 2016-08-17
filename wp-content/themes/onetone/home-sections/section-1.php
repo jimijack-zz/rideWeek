@@ -56,6 +56,12 @@
             <a href="<?php echo esc_url($btn_link);?>" target="<?php echo esc_attr($btn_target);?>" class=" magee-btn-normal btn-lg btn-line btn-light" style="text-decoration: none;"><?php echo do_shortcode($btn_text);?></a> 
             <?php endif;?>
             </div>
+          <div style="margin-top: 10px;">
+            <br />
+            <?php if( $btn_text != ''):?>
+            <a href="<?php echo esc_url($btn_link);?>" target="<?php echo esc_attr($btn_target);?>" class=" magee-btn-normal btn-lg btn-line btn-light" style="text-decoration: none;"><?php echo do_shortcode($btn_text);?></a> 
+            <?php endif;?>
+            </div>
           <div class="banner-sns" style="margin-top: 50px;">
            <ul>
            <?php 
