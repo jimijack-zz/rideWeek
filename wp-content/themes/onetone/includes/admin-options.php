@@ -643,28 +643,7 @@ SHINES ONE PAGE SMALL BUSINESS WEBSITE.",
 						  'class'=>'content-model-0 section-item accordion-group-section-'.$i,
 						  'options'     => $target
 						  );
-			  $options[] = array(
-						  'name' => __('Button Text', 'onetone'),
-						  'id'   => "section_btn_text_".$i,
-						  'std'  => 'Click Me',
-						  'type' => 'text',
-						  'class'=>'content-model-0 section-item accordion-group-section-'.$i
-						  );
-			  $options[] = array(
-						  'name' => __('Button Link', 'onetone'),
-						  'id'   => "section_btn_link_".$i,
-						  'std'  => '#',
-						  'type' => 'text',
-						  'class'=>'content-model-0 section-item accordion-group-section-'.$i
-						  );
-			  $options[] = array(
-						  'name' => __('Button Target', 'onetone'),
-						  'id'   => "section_btn_target_".$i,
-						  'std'  => '_self',
-						  'type' => 'select',
-						  'class'=>'content-model-0 section-item accordion-group-section-'.$i,
-						  'options'     => $target
-						  );
+			  
 			  
 			  $banner_social_icon = array('fa-facebook','fa-skype','fa-twitter','fa-linkedin','fa-google-plus','fa-rss');
 			  for( $s=0;$s<6;$s++ ):
