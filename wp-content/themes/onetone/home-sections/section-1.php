@@ -58,7 +58,7 @@
             </div>
           <div style="margin-top: 10px;">
             <br />
-            <a href="http://www.rideshare.info" target="_blank" class=" magee-btn-normal btn-lg btn-line btn-light" style="text-decoration: none;">PLEDGE NOW</a> 
+            <a href="http://www.rideshare.info" target="_blank" class=" magee-btn-normal btn-lg btn-line btn-light btn-pledge" style="text-decoration: none;"><i class="fa fa-bus animated infinite bounceOutLeft"></i>PLEDGE NOW</a> 
             </div>
           <div class="banner-sns" style="margin-top: 50px;">
            <ul>
