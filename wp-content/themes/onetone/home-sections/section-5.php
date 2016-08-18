@@ -71,8 +71,9 @@ global $onetone_animated;
       if( $link!='' )
 	  $image = '<a href="'.$link.'" target="_blank"><img src="'.$avatar.'" alt="'.$name.'" style="border-radius: 0; display: inline-block;border-style: solid;" />
         <div class="img-overlay primary">
-          <div class="img-overlay-container">
-            <div class="img-overlay-content"><i class="fa fa-link"></i></div>
+          <div class="img-overlay-container" style="display:block; padding-top:45%">
+          	<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">'.$name.'</h3>
+          	<div class="img-overlay-content" style="display:block"><i class="fa fa-download"></i></div>	
           </div>
         </div>
         </a>';
