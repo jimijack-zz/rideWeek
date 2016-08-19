@@ -56,7 +56,7 @@ section.home-section-1 .magee-heading {
     background-color: #00a0dd;
     color: #fff;
     border-radius: 50px;
-    padding-top: 10px;
+    padding-top: 20px;
     font-size: 18px;
 }
 
@@ -175,4 +175,9 @@ section.home-section-4 {
 
 .magee-accordion.accordion-boxed .panel-default > .panel-heading {
     background-color: rgba(0, 160, 221, .2);
+}
+
+.img-box .img-overlay {
+    transition: all 0.5s ease;
+    -webkit-transition: all 1s ease;
 }
