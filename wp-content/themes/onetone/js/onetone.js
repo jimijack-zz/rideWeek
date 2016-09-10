@@ -55,6 +55,15 @@ jQuery("form.contact-form #submit").click(function(){
 	 });
 
 
+  //cooltext
+
+  $("#coolText").cooltext({
+   sequence:[
+      {action:"animation", animation:"cool12"},
+      {action:"animation", animation:"cool209", delay:2}
+   ]
+});
+
   //top menu
 
 	jQuery(".site-navbar,.home-navbar").click(function(){
