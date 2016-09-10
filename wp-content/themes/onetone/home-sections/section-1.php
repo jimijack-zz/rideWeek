@@ -57,7 +57,7 @@
             <?php endif;?>
           </div>
           <div style="background: #033466; padding: 25px 20px 1px 20px;">
-            <p ct-sequence="cool56|cool120" style="color: #ffffff; font-size: 25px; text-transform: uppercase;">During Ride Week, commuters are encouraged to pledge to <strong>carpool, vanpool, bike, walk, bus</strong> or <strong>train</strong> to work.</p>
+            <p id="coolText" ct-sequence="cool56|cool120" style="color: #ffffff; font-size: 25px; text-transform: uppercase;">During Ride Week, commuters are encouraged to pledge to <strong>carpool, vanpool, bike, walk, bus</strong> or <strong>train</strong> to work.</p>
           </div>
           <div style="margin-top: 10px;">
             <br />
