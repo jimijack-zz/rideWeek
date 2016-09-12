@@ -10,8 +10,8 @@
 	<![endif]-->
   <script type="text/javascript" src="assets/js/jquery-2.2.0.min.js"></script>
   <script type="text/javascript" src="assets/js/TweenMax.min.js"></script>
-  <script type="text/javascript" src="assets/js/cooltext.animations.js"></script>]]>
-  <script type="text/javascript" src="assets/js/cooltext.min.js"></script>]]>
+  <script type="text/javascript" src="assets/js/cooltext.animations.js"></script>
+  <script type="text/javascript" src="assets/js/cooltext.min.js"></script>
 <?php wp_head(); ?>
 </head>
 <?php
