@@ -181,3 +181,11 @@ section.home-section-4 {
     transition: all 0.5s ease;
     -webkit-transition: all 1s ease;
 }
+
+.page-title h1 {
+    line-height: 1;
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: #062d5d;
+}

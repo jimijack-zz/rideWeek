@@ -61,7 +61,7 @@
           </div>
           <div style="margin-top: 10px;">
             <br />
-            <a href="http://www.ridematch.info" target="_blank" class=" magee-btn-normal btn-lg btn-line btn-light btn-pledge" style="text-decoration: none;"><img src="https://i.imgur.com/US5F6NQ.png" class="animated infinite bounceOut" style="width:25px; margin-right:10px">PLEDGE NOW</a>
+            <a href="http://www.ridematch.info" target="_blank" class=" magee-btn-normal btn-lg btn-line btn-light btn-pledge" style="text-decoration: none;"><img src="https://i.imgur.com/US5F6NQ.png" class="animated infinite bounceOut" style="width:25px; margin-right:10px">PLEDGE NOW for a chance to win great prizes!</a>
           </div>
           <div class="banner-sns" style="margin-top: 50px;">
            <ul>
