@@ -643,13 +643,10 @@ global $onetone_animated;
 				</div>
 			</div>
 		</div>
-	</div>
 
 <!-- PLEDGE FORMS END -->
 
 <!-- EMPLOYEE EMAILS FORMS -->
-
-    <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
