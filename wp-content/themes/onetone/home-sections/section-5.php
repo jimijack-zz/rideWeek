@@ -647,6 +647,65 @@ global $onetone_animated;
 
 <!-- PLEDGE FORMS END -->
 
+<!-- EMPLOYEE EMAILS FORMS -->
+
+    <div class="row">
+	
+		<div class="col-md-3">
+			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/09/RideWeek-Employee-Email-English.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/09/RideWeek-Employee-Email-English_thumb.jpg" alt="Rideweek Employee Email" style="border-radius: 0px; display: inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Employee Email - English</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Employee Email</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">English Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="col-md-3">
+		  	<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/09/Rideweek-Employee-Email-Spanish.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/09/Rideweek-Employee-Email-Spanish_thumb.jpg" alt="Rideweek Pledge Form Español" style="border-radius: 0px; display:inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Employee Email - Español</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Employee Email</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">Spanish Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<!-- EMPLOYEE EMAILS END -->
+
   </div>
 
 
