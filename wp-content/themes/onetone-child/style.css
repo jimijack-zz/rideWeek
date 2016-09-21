@@ -24,6 +24,13 @@ font-family: 'Avenir';
 margin:0px;
 }
 
+hr {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 0;
+    height: 1px;
+    margin-bottom: 23px;
+}
+
 .home-section-1 .heading-border .heading-inner {
     border-width: 1px;
     border-color: #feb01b;

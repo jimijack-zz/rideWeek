@@ -139,6 +139,118 @@ global $onetone_animated;
              <?php 
 		endif;
 		?>
+<!-- <hr> -->
+<!-- SPANISH FLYERS -->
+
+    <div class="row">
+	
+		<div class="col-md-3">
+			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/08/Rideshare-Makesiteasy-Flyer-Spanish_F-1.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/08/Rideshare-Makesiteasy-Flyer-Spanish_F_thumb.jpg" alt="Rideweek Flyer - Carpool Español" style="border-radius: 0px; display: inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Flyer - Carpool Español</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Flyer - Carpool Español</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">8.5 x 11 - Spanish Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="col-md-3">
+		  	<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Bike.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Bike_thumb.jpg" alt="Rideweek Flyer - Bike Español" style="border-radius: 0px; display:inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Flyer - Bike Español</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Flyer - Bike Español</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">8.5 x 11 - Spanish Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="col-md-3">
+		  	<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Walk.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Walk_thumb.jpg" alt="Rideweek Flyer - Walk Español" style="border-radius: 0px; display: inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Flyer - Walk Español</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Flyer - Walk Español</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">8.5 x 11 - Spanish Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="col-md-3">
+		  	<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
+				<div class="magee-person-box" id="">
+					<div class="person-img-box">
+						<div class="img-box figcaption-middle text-center fade-in">
+							<a href="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Bus.pdf" target="_blank">
+								<img src="http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Spanish_F-Bus_thumb.jpg" alt="Rideweek Flyer - Bus Español" style="border-radius: 0px; display: inline-block; border-style: solid; visibility: visible;">
+    	    					<div class="img-overlay primary">
+    	      						<div class="img-overlay-container" style="display:block; padding-top:20%">
+    	      							<h3 class="img-overlay-content" style="text-transform: uppercase; display:block; color:white">Rideweek Flyer - Bus Español</h3>
+    	      							<div class="img-overlay-content" style="display:block"><i class="fa fa-download" style="visibility: visible;"></i></div>	
+    	      						</div>
+    	    					</div>
+    	    				</a>
+    	    			</div>
+					</div>
+					<div class="person-vcard text-center">
+						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Flyer - Bus Español</h3>
+						<h4 class="person-title" style="text-transform: uppercase;">8.5 x 11 - Spanish Version</h4>
+						<p class="person-desc"></p>
+						<ul class="person-social"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+<!-- SPANISH FLYERS END -->	
 <hr>
 <!-- ENGLISH POSTERS -->
 
@@ -590,7 +702,7 @@ global $onetone_animated;
 <hr>
 <!-- PLEDGE FORMS -->
 
-    <div class="row">
+<!--     <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -642,13 +754,13 @@ global $onetone_animated;
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 <!-- PLEDGE FORMS END -->
 
 <!-- EMPLOYEE EMAILS FORMS -->
 	
-		<div class="col-md-3">
+<!-- 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
 				<div class="magee-person-box" id="">
 					<div class="person-img-box">
@@ -699,7 +811,7 @@ global $onetone_animated;
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 <!-- EMPLOYEE EMAILS END -->
 
