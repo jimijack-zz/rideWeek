@@ -178,6 +178,7 @@ section.home-section-4 {
 
 .magee-accordion h4.panel-title {
     font-size: 25px;
+    padding-top: 4px;
 }
 
 .magee-accordion.accordion-boxed .panel-default > .panel-heading {
