@@ -179,6 +179,10 @@ section.home-section-4 {
     background-size: 100%;
 }
 
+section.home-section-4 p {
+    line-height: 1.3em;
+}
+
 #about {
     background-size: cover;
     background: url('https://i.imgur.com/EnIiMcJ.jpg');
