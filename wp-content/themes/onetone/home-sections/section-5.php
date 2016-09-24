@@ -142,7 +142,7 @@ global $onetone_animated;
 <!-- <hr> -->
 <!-- SPANISH FLYERS -->
 
-    <div class="row">
+<!--     <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -248,13 +248,13 @@ global $onetone_animated;
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 
 <!-- SPANISH FLYERS END -->	
-<hr>
+<!-- <hr> -->
 <!-- ENGLISH POSTERS -->
 
-    <div class="row">
+<!--     <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -360,13 +360,13 @@ global $onetone_animated;
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 
 <!-- ENGLSIH POSTERS END -->	
 
 <!-- SPANISH POSTERS -->
 
-	<div class="row">
+<!-- 	<div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -472,13 +472,13 @@ global $onetone_animated;
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 
 <!-- SPANISH POSTERS END -->
-<hr>
+<!-- <hr> -->
 <!-- ENGLISH INSTAGRAM GRAPHICS -->
 
-    <div class="row">
+<!--     <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -496,7 +496,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Carpool</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">English Version</h4>
 						<p class="person-desc"></p>
@@ -522,7 +522,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphics - Bike</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">English Version</h4>
 						<p class="person-desc"></p>
@@ -548,7 +548,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Walk</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">English Version</h4>
 						<p class="person-desc"></p>
@@ -574,7 +574,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Bus</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">English Version</h4>
 						<p class="person-desc"></p>
@@ -584,13 +584,13 @@ global $onetone_animated;
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 
 <!-- ENGLISH INSTAGRAM GRAPHICS END -->
 
 <!-- SPANISH INSTAGRAM GRAPHICS -->
 
-    <div class="row">
+<!--     <div class="row">
 	
 		<div class="col-md-3">
 			<div class="magee-animated animated fadeInDown" data-animationduration="0.9" data-animationtype="fadeInDown" data-imageanimation="no" style="visibility: visible; animation-duration: 0.9s;">
@@ -608,7 +608,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Carpool Español</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">Spanish Version</h4>
 						<p class="person-desc"></p>
@@ -634,7 +634,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Bike Español</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">Spanish Version</h4>
 						<p class="person-desc"></p>
@@ -660,7 +660,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Walk Español</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">Spanish Version</h4>
 						<p class="person-desc"></p>
@@ -686,7 +686,7 @@ global $onetone_animated;
     	    				</a>
     	    			</div>
 					</div>
-					<div class="person-vcard text-center">
+					<div class="person-vcard text-center" style="color: #033466">
 						<h3 class="person-name" style="text-transform: uppercase;">Rideweek Instagram Graphic - Bus Español</h3>
 						<h4 class="person-title" style="text-transform: uppercase;">Spanish Version</h4>
 						<p class="person-desc"></p>
@@ -696,10 +696,10 @@ global $onetone_animated;
 			</div>
 		</div>
 
-	</div>
+	</div> -->
 
 <!-- SPANISH INSTAGRAM GRAPHICS END -->
-<hr>
+<!-- <hr> -->
 <!-- PLEDGE FORMS -->
 
 <!--     <div class="row">

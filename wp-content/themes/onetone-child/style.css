@@ -109,9 +109,47 @@ section.video-section .home-container:hover {
     border-radius: 25px;
 }
 
-.magee-accordion.panel-group .panel-heading+.panel-collapse>.list-group, .magee-accordion.panel-group .panel-heading+.panel-collapse>.panel-body {
+.whyride .panel-heading+.panel-collapse>.panel-body,
+.waystoride .panel-heading+.panel-collapse>.panel-body {
     border-top: 1px solid #ddd;
     background: rgba(0, 160, 221, .2);
+}
+
+.pledgeAccordion .panel-heading+.panel-collapse>.panel-body, 
+.emailAccordion .panel-heading+.panel-collapse>.panel-body, 
+.flyersAccordion .panel-heading+.panel-collapse>.panel-body, 
+.postersAccordion .panel-heading+.panel-collapse>.panel-body, 
+.instagramAccordion .panel-heading+.panel-collapse>.panel-body {
+    background-color: rgba(3, 52, 102, 0.5);
+}
+
+.pledgeAccordion .panel-css-1 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/08/Ride-Week-Pledge-Form-English_thumb.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+.emailAccordion .panel-css-1 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/RideWeek-Employee-Email-English_thumb.jpg) center;
+    background-size: cover;
+    /*background-position-y: -400px;*/
+}
+
+.flyersAccordion .panel-css-1 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Flyer-Bike-F_thumb.jpg) center;
+    background-size: cover;
+    background-position-y: -100px;
+}
+
+.postersAccordion .panel-css-1 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Makesiteasy-Poster-Walk-F_thumb.jpg) center top;
+    background-size: cover;
+    /*background-position-y: -275px;*/
+}
+
+.instagramAccordion .panel-css-1 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/Rideshare-Insta-English-Bus.jpg) center;
+    background-size: cover;
+    /*background-position-y: -350px;*/
 }
 
 @media (min-width: 1200px)
