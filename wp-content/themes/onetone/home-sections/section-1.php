@@ -49,7 +49,8 @@
           <div style="font-family: 'Lustria',serif;">
             <h1 class="magee-heading section-title heading-border" id=""><span class="heading-inner"><?php echo do_shortcode($section_title);?></span></h1>
           </div>
-          <p class="home-section-content" style="margin-top: 50px;"><?php echo do_shortcode($section_subtitle);?></p>
+          <p class="home-section-content" style="margin-top: 40px;"><?php echo do_shortcode($section_subtitle);?></p>
+          <p style="font-size: 42px; color: #ffb01b; margin-top: -40px;">October 3-7</p>
           <div style="margin-top: 50px;">
             <br />
             <?php if( $btn_text != ''):?>
