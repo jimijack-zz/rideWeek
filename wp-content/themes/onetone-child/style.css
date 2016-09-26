@@ -129,9 +129,9 @@ section.video-section .home-container:hover {
 }
 
 .emailAccordion .panel-css-1 {
-    background: url(http://rideweek.org/wp-content/uploads/2016/09/RideWeek-Employee-Email-English_thumb.jpg) center;
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/emailForAccordion.png) center;
     background-size: cover;
-    /*background-position-y: -400px;*/
+    background-position-y: -235px;
 }
 
 .flyersAccordion .panel-css-1 {
