@@ -24,6 +24,30 @@ font-family: 'Avenir';
 margin:0px;
 }
 
+a#onetone-csuci {
+    padding-left: 35px;
+    /* margin-top: 25px; */
+    color: #666666;
+    position: relative;
+    top: 22px;
+}
+
+a#onetone-csuci:hover{
+    color: #ffb01b;
+}
+
+a#onetone-media {
+    padding-left: 35px;
+    /* margin-top: 25px; */
+    color: #666666;
+    position: relative;
+    top: 22px;
+}
+
+a#onetone-media:hover{
+    color: #ffb01b;
+}
+
 hr {
     background-color: rgba(0, 0, 0, 0.5);
     border: 0;
@@ -115,15 +139,15 @@ section.video-section .home-container:hover {
     background: rgba(0, 160, 221, .2);
 }
 
-.pledgeAccordion .panel-heading+.panel-collapse>.panel-body, 
-.emailAccordion .panel-heading+.panel-collapse>.panel-body, 
-.flyersAccordion .panel-heading+.panel-collapse>.panel-body, 
-.postersAccordion .panel-heading+.panel-collapse>.panel-body, 
+.pledgeAccordion .panel-heading+.panel-collapse>.panel-body,
+.emailAccordion .panel-heading+.panel-collapse>.panel-body,
+.flyersAccordion .panel-heading+.panel-collapse>.panel-body,
+.postersAccordion .panel-heading+.panel-collapse>.panel-body,
 .instagramAccordion .panel-heading+.panel-collapse>.panel-body {
     background-color: rgba(3, 52, 102, 0.5);
 }
 
-.pledgeAccordion .panel-css-1 {
+.pledgeAccordion .panel-css-1{
     background: url(http://rideweek.org/wp-content/uploads/2016/08/Ride-Week-Pledge-Form-English_thumb.jpg) no-repeat center top;
     background-size: cover;
 }
@@ -238,4 +262,18 @@ section.home-section-4 p {
     font-size: 36px;
     font-weight: bold;
     color: #062d5d;
+}
+
+article#post-562 {
+    background: url(http://rideweek.org/wp-content/uploads/2016/09/VCTC-CSUCI-Bus-ForWeb15.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+div.post-inner.row.no-aside{
+    background: transparent;
+}
+
+section.post-main p {
+    font-size: 18px;
+    color: #333333;
 }
