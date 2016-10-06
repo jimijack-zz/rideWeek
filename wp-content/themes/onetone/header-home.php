@@ -157,8 +157,10 @@
 							}
 							?>
                         </nav>
+
                         <!-- <a id="onetone-csuci" href="http://rideweek.org/csuci_portal-2016"><span>CSUCI Portal</span></a> -->
                         <a id="onetone-media" href="http://rideweek.org/resources"><span>Media Portal</span></a>
+
                     </div>
                 </div>
                    
@@ -201,8 +203,10 @@
 						  }
 						  ?>
                         </nav>
+
                         <!-- <a id="onetone-csuci" href="http://rideweek.org/csuci_portal-2016"><span>CSUCI Portal</span></a> -->
                         <a id="onetone-media" href="http://rideweek.org/resources"><span>Media Portal</span></a>
+                        
                     </div>
                 </div>
 
